@@ -1,4 +1,4 @@
-# Aplicación de Control de Stock
+# Aplicación de consola: Control de Stock
 
 Esta es una aplicación de consola en C diseñada para ayudar a gestionar el stock de productos de manera sencilla. Puedes realizar operaciones como dar de alta nuevos productos, modificar la información de los productos existentes, dar de baja productos agotados y mostrar el stock actual.
 
